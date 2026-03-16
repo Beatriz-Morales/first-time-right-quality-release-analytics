@@ -46,4 +46,4 @@ I used Power BI-supported reporting logic to review 001B exception output and de
 - Process control review
 
 ## Confidentiality Note
-This repository is presented as a sanitized portfolio summary. Proprietary thresholds, internal report exports, lot identifiers, and plant-specific operational details have been removed or generalized.# first-time-right-quality-release-analytics
+This repository is presented as a sanitized portfolio summary. Proprietary thresholds, internal report exports, lot identifiers, and plant-specific operational details have been removed or generalized.
