@@ -26,10 +26,10 @@ I used Power BI-supported reporting logic to review 001B exception output and de
 - Release decision support
 
 ## Dashboard Preview
-![Mock Dashboard](images/mock-dashboard.png)
+![Mock Dashboard](mock-dashboard.png)
 
 ## Process Flow
-![Process Flow](images/process-flow.png)
+![Process Flow](process-flow.png)
 
 ## Business Value
 - Improved visibility into lot-level exceptions affecting release decisions
